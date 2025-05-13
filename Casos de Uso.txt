@@ -1,0 +1,41 @@
+Casos de USO:
+	OBJ-01 Gestionar Usuarios
+	OBJ-02 Verificar NIF de Usuario
+	OBJ-03 Validar Email de Usuario
+	OBJ-04 Registrar Nuevo Usuario
+	OBJ-05 Iniciar Sesión de Usuario
+	OBJ-06 Realizar Prepago
+	OBJ-07 Realizar Viaje con Ruta Establecida
+	OBJ-08 Realizar Viaje sin Ruta Establecida
+	OBJ-09 Finalizar Viaje y Aparcar Vehículo
+	OBJ-10 Escanear QR de Vehículo
+	OBJ-11 Gestionar Métodos de Pago
+	OBJ-12 Solicitar Factura
+	OBJ-13 Registrar Incidencia
+	OBJ-14 Gestionar Incidencias por Personal
+	OBJ-15 Asignar Incidencias a Empleados
+	OBJ-16 Notificar Cambios en Incidencias
+	OBJ-17 Cambiar Estado de Incidencia
+	OBJ-18 Bloquear Cuenta de Usuario
+	OBJ-19 Actualizar Tarifas del Sistema
+	OBJ-20 Consultar Estaciones Disponibles
+	OBJ-21 Consultar Vehículos Disponibles
+	OBJ-22 Reservar Vehículo
+	OBJ-23 Cancelar Reserva
+	OBJ-24 Penalizar Usuario por Reserva No Usada
+	OBJ-25 Gestionar Reservas por Administración
+	OBJ-26 Localizar Vehículos
+	OBJ-27 Consultar Estado de Estaciones
+	OBJ-28 Generar Informes de Estadísticas
+	OBJ-29 Generar Balances Económicos
+	OBJ-30 Exportar Balances a Hoja de Cálculo
+	OBJ-31 Gestionar Estaciones
+	OBJ-32 Gestionar Vehículos
+	OBJ-33 Notificar al Usuario Cambios de Estado de Incidencia
+	OBJ-34 Validar Aparcamiento Correcto del Vehículo
+	OBJ-35 Consultar Historial de Incidencias
+	OBJ-36 Establecer Precios por Ciudad, Vehículo y Duración
+	OBJ-37 Controlar Límite de Viajes sin Verificación
+	OBJ-38 Recuperar Contraseña / Validación de Cuenta
+	OBJ-39 Consultar Historial de Viajes
+	OBJ-40 Ver Detalles de Facturas Emitidas
