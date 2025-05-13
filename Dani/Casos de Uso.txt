@@ -5,8 +5,11 @@ Casos de USO:
 	OBJ-04 Registrar Nuevo Usuario
 	OBJ-05 Iniciar Sesión de Usuario
 	OBJ-06 Realizar Prepago
+	
+	// Posible solapamiento
 	OBJ-07 Realizar Viaje con Ruta Establecida
 	OBJ-08 Realizar Viaje sin Ruta Establecida
+	
 	OBJ-09 Finalizar Viaje y Aparcar Vehículo
 	OBJ-10 Escanear QR de Vehículo
 	OBJ-11 Gestionar Métodos de Pago
@@ -14,7 +17,7 @@ Casos de USO:
 	OBJ-13 Registrar Incidencia
 	OBJ-14 Gestionar Incidencias por Personal
 	OBJ-15 Asignar Incidencias a Empleados
-	OBJ-16 Notificar Cambios en Incidencias
+	OBJ-16 Gestionar Incidencias (Usuario)
 	OBJ-17 Cambiar Estado de Incidencia
 	OBJ-18 Bloquear Cuenta de Usuario
 	OBJ-19 Actualizar Tarifas del Sistema
@@ -35,6 +38,7 @@ Casos de USO:
 	OBJ-34 Validar Aparcamiento Correcto del Vehículo
 	OBJ-35 Consultar Historial de Incidencias
 	OBJ-36 Establecer Precios por Ciudad, Vehículo y Duración
+	// Funcionalidad
 	OBJ-37 Controlar Límite de Viajes sin Verificación
 	OBJ-38 Recuperar Contraseña / Validación de Cuenta
 	OBJ-39 Consultar Historial de Viajes
