@@ -1,0 +1,29 @@
+OBJ-05	Reservas de Vehiculos
+Versión	0.0.1 (14/05/2025)
+Descripción
+	La aplicación debe gestionar las reservas de vehiculos.
+Subobjetivos
+	• Escanear código QR del véhiculo
+	• Reservar vehículo escaneado.
+	• Cancelar vehículo reservado.
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios:
+
+----------------------------------
+
+OBJ-05 – Gestión de Reservas
+Versión: 0.1.1 (14/05/2025)
+Descripción:
+La aplicación debe permitir a los usuarios reservar un vehículo para su trayecto.
+Subobjetivos:
+• Escanear código QR del vehículo para iniciar reserva
+• Confirmar reserva del vehículo seleccionado
+• Cancelar una reserva activa
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios: El escaneo de QR se asume como parte de la app cliente móvil.

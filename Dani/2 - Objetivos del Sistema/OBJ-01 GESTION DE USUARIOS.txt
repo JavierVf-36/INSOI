@@ -1,0 +1,31 @@
+OBJ-01	Gestionar de Usuarios
+Versión	0.0.1 (14/05/2025)
+Descripción
+	La aplicación debe permitir al personal de administración gestionar a los usuarios.
+Subobjetivos
+	• Dar de alta un usuario.
+	• Verificar un usuario.
+	• Bloquear usuarios.
+	• Dar de baja un usuario.
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios: El correcto funcionamiento de este objetivo es crucial para habilitarle el uso de nuestra aplicación a los usuarios.
+
+------------------------------
+
+OBJ-01 – Gestión de Usuarios
+Versión: 0.1.1 (14/05/2025)
+Descripción:
+La aplicación debe permitir al personal de administración gestionar los usuarios registrados y su estado.
+Subobjetivos:
+• Dar de alta un usuario
+• Verificar usuario
+• Bloquear usuarios
+• Dar de baja un usuario
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios: Fundamental para controlar el acceso a la aplicación y garantizar la seguridad.

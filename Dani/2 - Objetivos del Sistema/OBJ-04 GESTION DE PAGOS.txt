@@ -1,0 +1,34 @@
+OBJ-04	Gestión de Incidencias
+Versión	0.0.1 (14/05/2025)
+Descripción
+	La aplicación debe permitir al personal de mantentimiento atender las incidencias, asignarlas, y al usuario registrarlas.
+Subobjetivos
+	• Registrar Incidencias
+	• Gestionar incidencias por personal
+	• Asignar incidencias a empleados
+	• Cambiar estado de incidencia
+	• Consultar incidencias
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios:
+
+------------------------------
+
+OBJ-04 – Gestión de Pagos
+Versión: 0.1.1 (14/05/2025)
+Descripción:
+La aplicación debe permitir el pago del uso del servicio por parte de los usuarios y gestionar los métodos asociados.
+Subobjetivos:
+• Gestionar métodos de pago disponibles (tarjeta, PayPal, etc.)
+• Seleccionar método de pago por parte del usuario
+• Procesar pago anticipado (prepago)
+• Procesar pago al finalizar trayecto
+• Solicitar y emitir factura
+• Consultar detalles de facturas anteriores
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentario: El sistema de pagos debe ser seguro, flexible y confiable, ya que afecta directamente la percepción del servicio por parte del usuario y la sostenibilidad económica del mismo. Su correcta implementación es crítica para evitar incidencias financieras o reclamaciones.

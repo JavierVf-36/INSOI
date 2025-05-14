@@ -1,0 +1,33 @@
+OBJ-03	Gestión de Pagos
+Versión	0.0.1 (14/05/2025)
+Descripción
+	La aplicación debe gestionar los pagos
+Subobjetivos
+	• Prepago con ruta establecida.
+	• Pago al finalizar ruta
+	• Gestionar metodos de pago?
+	• Forma de pago.
+	• Solicitar facturas
+	• Ver detalles de facturas
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios:
+
+--------
+
+OBJ-03 – Gestión de Estaciones
+Versión: 0.1 (14/05/2025)
+Descripción:
+La aplicación debe permitir la consulta y supervisión del estado de las estaciones.
+Subobjetivos:
+• Consultar estaciones disponibles
+• Consultar estado operativo de estaciones
+• Consultar vehículos disponibles por estación
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentario:
+Permitir la consulta y supervisión de las estaciones disponibles es vital para garantizar que los usuarios puedan planificar y ejecutar sus desplazamientos. Además, facilita la toma de decisiones operativas por parte del personal de administración.

@@ -1,0 +1,31 @@
+OBJ-07	Gestión de Notificaciones
+Versión	0.0.1 (14/05/2025)
+Descripción
+	La aplicación debe poder enviar notificaciones a los usuarios.
+Subobjetivos
+	• Notificar correcto fin de trayecto
+	• Notificar cambio de incidencia
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios:
+
+-------------------
+
+OBJ-07 – Gestión de Incidencias
+Versión: 0.1.1 (14/05/2025)
+Descripción:
+La aplicación debe permitir a los usuarios registrar incidencias, y al personal técnico consultarlas y gestionarlas.
+Subobjetivos:
+• Registrar incidencia por parte del usuario
+• Consultar lista de incidencias activas
+• Asignar incidencias a personal de mantenimiento
+• Cambiar el estado de una incidencia (pendiente, en curso, resuelta)
+• Registrar resolución de la incidencia
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentario:
+La resolución rápida y eficiente de incidencias mejora la fiabilidad del sistema y la confianza de los usuarios. Este módulo también optimiza el trabajo del personal técnico al permitir una gestión ordenada y trazable de los problemas reportados.

@@ -1,0 +1,29 @@
+OBJ-08	Gestión de Estaciones
+Versión	0.0.1 (14/05/2025)
+Descripción
+	La aplicación debe ??
+Subobjetivos
+	• Consultar las estaciones disponibles
+	• Consultar Estado de estaciones
+	• Consultar vehiculos disponibles
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios:
+
+------------------------------
+
+OBJ-08 – Gestión de Notificaciones
+Versión: 0.2.1 (14/05/2025)
+Descripción:
+La aplicación debe poder enviar notificaciones automáticas relevantes a los usuarios en función de eventos del sistema.
+Subobjetivos:
+• Notificar finalización de trayecto correctamente
+• Notificar cambios de estado en incidencias reportadas
+• Notificar confirmación o cancelación de reserva
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios: Las notificaciones pueden ser por app móvil, email o web, según configuración del usuario.

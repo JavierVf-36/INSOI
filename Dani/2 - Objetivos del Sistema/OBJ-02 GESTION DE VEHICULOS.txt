@@ -1,0 +1,30 @@
+OBJ-02	Gestión de Véhiculos y Trayectos?
+Versión	0.0.2 (14/05/2025)
+Descripción
+	La aplicación debe permitir al personal de administración gestionar los distintos véhiculos y estaciones.
+Subobjetivos
+	• Localizar véhiculos.
+	• Actualizar Tarifas del Sistema
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+
+Comentarios:
+
+-----------------------------------------
+OBJ-02 – Gestión de Vehículos
+Versión: 0.1 (14/05/2025)
+Descripción:
+La aplicación debe permitir al personal de administración gestionar los vehículos disponibles en el sistema.
+Subobjetivos:
+• Registrar o dar de baja vehículos
+• Consultar localización de vehículos
+• Actualizar el estado de un vehículo (disponible, en mantenimiento, etc.)
+• Actualizar tarifas por uso
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios:
+La correcta administración del parque móvil es esencial para asegurar la disponibilidad y trazabilidad de los vehículos dentro del sistema. Este objetivo impacta directamente en la experiencia del usuario y en la eficiencia operativa del servicio.

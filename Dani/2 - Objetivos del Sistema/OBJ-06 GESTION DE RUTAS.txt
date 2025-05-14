@@ -1,0 +1,31 @@
+OBJ-06	Gestión de Rutas
+Versión	0.0.1 (14/05/2025)
+Descripción
+	La aplicación debe poder enviar notificaciones a los usuarios.
+Subobjetivos
+	• Ruta con prepago
+	• Pago al finalizar la ruta.
+	• Deteccion correcto fin al detectar el vehiculo
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios:
+
+------------------------------
+
+OBJ-06 – Gestión de Rutas
+Versión: 0.1.1 (14/05/2025)
+Descripción:
+La aplicación debe gestionar el seguimiento de rutas de los usuarios y su finalización correcta.
+Subobjetivos:
+• Iniciar ruta con opción de prepago
+• Iniciar ruta con pago al finalizar
+• Detectar finalización automática al devolver el vehículo correctamente
+• Confirmar cierre de ruta y activar cobro
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentario:
+Este módulo garantiza que el seguimiento de trayectos y su finalización se realicen de forma transparente, permitiendo aplicar correctamente las políticas de cobro. Es clave para mantener el control de uso de los vehículos y asegurar la calidad del servicio.
