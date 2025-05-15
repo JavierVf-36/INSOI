@@ -1,0 +1,18 @@
+OBJ-09	Gestión de Informes 
+Versión	0.0.1 (15/05/2025)
+Descripción
+	La aplicación debe proporcionar informes diarios, semanales o mensuales con varias estadísticas
+	sobre las estaciones y los vehículos, además de un balance económico de gastos e ingresos
+Subobjetivos
+	• Generar Informes de Estadísticas
+	• Generar Balances económicos
+	• Exportar Balances a Hoja de Cálculo
+	
+Importancia: Prioritaria
+Urgencia: Prioritaria
+Estado: En desarrollo
+Estabilidad: Moderada
+Comentarios: La disponibilidad de esta información mejora la transparencia y la toma de decisiones estratégicas, y a su vez
+	mejora la gestión administrativa dando una visión clara del estado operativo y financiero de la aplicación	
+	
+------------------------------
