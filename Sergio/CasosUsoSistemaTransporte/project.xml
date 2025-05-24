@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI xmi.version="2.1" xmlns:uml="http://www.omg.org/spec/UML/20090901">
+  <uml:Model name="SistemaTransporte" xmi:type="uml:Model">
+    <!-- Actores -->
+    <packagedElement xmi:type="uml:Actor" xmi:id="A1" name="usuario"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="A2" name="usuario registrado"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="A3" name="Admin"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="A4" name="mantenimiento"/>
+
+    <!-- Subsistema: INICIO DE SESION -->
+    <packagedElement xmi:type="uml:Package" name="INICIO DE SESION">
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC1" name="Registrarse"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC2" name="Iniciar sesion"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC3" name="Verificar email de usuario"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC4" name="Verificar DNI"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC5" name="Recuperar contrasena"/>
+    </packagedElement>
+
+    <!-- Subsistema: REALIZAR TRAYECTO -->
+    <packagedElement xmi:type="uml:Package" name="REALIZAR TRAYECTO">
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC6" name="Realizar prepago"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC7" name="Escanear vehiculo"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC8" name="Realizar viaje con ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC9" name="Realizar viaje sin ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC10" name="Realizar pago viaje con ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC11" name="Finalizar viaje con ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC12" name="Finalizar viaje sin ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC13" name="Reembolso viaje con ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC14" name="Pago extra viaje con ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC15" name="Pago total viaje sin ruta establecida"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC16" name="Generar factura"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC17" name="Enviar factura al dispositivo"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC18" name="Enviar factura al email"/>
+    </packagedElement>
+
+    <!-- Subsistema: GESTION DE PAGOS Y CONTABILIDAD -->
+    <packagedElement xmi:type="uml:Package" name="GESTION DE PAGOS Y CONTABILIDAD">
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC19" name="Elegir metodo de pago"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC20" name="Pagar con Apple Pay"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC21" name="Pagar con Paypal"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC22" name="Pagar con Google Pay"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC23" name="Pagar con tarjeta de credito"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC24" name="Gestionar tarjetas de credito"/>
+    </packagedElement>
+
+    <!-- Subsistema: GESTION DE INCIDENCIAS -->
+    <packagedElement xmi:type="uml:Package" name="GESTION DE INCIDENCIAS">
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC25" name="Registrar incidencia"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC26" name="Gestionar incidencia por usuario"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC27" name="Gestionar incidencia por personal"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC28" name="Cambiar estado incidencia"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC29" name="Asignar incidencias"/>
+    </packagedElement>
+
+    <!-- Subsistema: FUNCIONES ADMIN -->
+    <packagedElement xmi:type="uml:Package" name="FUNCIONES ADMIN">
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC30" name="Consultar estado estaciones"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC31" name="Gestionar estaciones"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC32" name="Gestionar usuarios"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="UC33" name="Localizar vehiculos"/>
+    </packagedElement>
+  </uml:Model>
+</XMI>

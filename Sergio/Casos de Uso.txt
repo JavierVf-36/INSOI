@@ -1,0 +1,147 @@
+🟦 INICIO DE SESIÓN
+UC1 - Registrarse
+
+UC2 - Iniciar sesión
+
+extension point: 
+	UC5 - Recuperar contraseña
+
+UC3 - Verificar email de usuario
+
+UC4 - Verificar DNI
+
+UC5 - Recuperar contraseña
+
+🟦 REALIZAR TRAYECTO
+UC6 - Realizar prepago
+
+UC7 - Escanear vehículo
+
+UC8 - Realizar viaje con ruta establecida
+
+UC9 - Realizar viaje sin ruta establecida
+
+UC10 - Realizar pago viaje con ruta establecida
+
+UC11 - Finalizar viaje con ruta establecida
+
+extension points:
+
+	UC13 - Reembolso viaje
+
+	UC14 - Pago extra viaje con ruta establecida
+
+UC12 - Finalizar viaje sin ruta establecida
+
+extension points:
+
+	UC13 - Reembolso viaje
+
+	UC15 - Pago total viaje sin ruta establecida
+
+UC13 - Reembolso viaje
+
+UC14 - Pago extra viaje con ruta establecida
+
+UC15 - Pago total viaje sin ruta establecida
+
+🟦 GESTIÓN DE PAGOS Y CONTABILIDAD
+UC16 - Generar factura
+
+extension points:
+
+	UC17 - Enviar factura al dispositivo
+
+	UC18 - Enviar factura al email
+
+UC17 - Enviar factura al dispositivo
+
+UC18 - Enviar factura al email
+
+UC19 - Elegir método de pago
+
+extension points:
+
+	UC20 - Pagar con Apple Pay
+
+	UC21 - Pagar con Paypal
+
+	UC22 - Pagar con Google Pay
+
+	UC23 - Pagar con tarjeta de crédito
+
+UC20 - Pagar con Apple Pay
+
+UC21 - Pagar con Paypal
+
+UC22 - Pagar con Google Pay
+
+UC23 - Pagar con tarjeta de crédito
+
+UC24 - Gestionar tarjetas de crédito
+
+------------------
+UC41 - Elegir duración del informe
+
+UC42 - Elegir información del informe
+
+UC43 - Generar informe 
+	extension point:
+	UC44 - Exportar informe
+UC44 - Exportar informe
+
+🟦 GESTIÓN DE RESERVAS
+UC25 - Consultar estaciones y vehículos
+
+UC26 - Realizar reserva
+
+extension points:
+
+UC27 - Cancelar reserva
+
+UC29 - Aplicar penalización por no recogida
+
+UC27 - Cancelar reserva
+
+UC28 - Consultar reservas
+
+UC29 - Aplicar penalización por no recogida
+
+UC30 - Gestionar reservas
+
+🟦 GESTIÓN DE INCIDENCIAS
+UC31 - Registrar incidencia
+
+extension point: 
+	UC32 - Gestionar incidencia por usuario
+
+UC32 - Gestionar incidencia por usuario
+
+UC33 - Gestionar incidencia por personal
+
+extension points:
+
+	UC34 - Cambiar estado incidencia
+
+	UC35 - Asignar incidencias
+
+UC34 - Cambiar estado incidencia
+
+UC35 - Asignar incidencias
+
+🟦 FUNCIONES ADMIN
+UC36 - Consultar estado estaciones
+
+	extension point: 
+	UC37 - Gestionar estaciones
+
+UC37 - Gestionar estaciones
+
+UC38 - Gestionar usuarios
+
+UC39 - Localizar vehículos
+
+	extension point: 
+	UC40 - Gestionar vehículos
+
+UC40 - Gestionar vehículos
