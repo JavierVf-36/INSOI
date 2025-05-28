@@ -22,9 +22,9 @@
 	OBJ-10 Escanear QR de Vehículo
 	OBJ-26 Localizar Vehículos
 	OBJ-34 Validar Aparcamiento Correcto del Vehículo
-  OBJ-41 Añadir vehículo
-  OBJ-42 Eliminar vehículo
-  OBJ-43 Modificar datos vehículo
+        OBJ-41 Añadir vehículo
+        OBJ-42 Eliminar vehículo
+        OBJ-43 Modificar datos vehículo
 
 🧭 MÓDULO DE ESTACIONES
 	OBJ-20 Consultar Estaciones Disponibles
