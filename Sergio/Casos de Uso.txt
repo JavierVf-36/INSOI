@@ -78,22 +78,22 @@ UC22 - Pagar con Google Pay
 
 UC23 - Pagar con tarjeta de crédito
 
-UC24 - Gestionar tarjetas de crédito
+UC20 - Gestionar tarjetas de crédito
 
 ------------------
-UC41 - Elegir duración del informe
+UC37 - Elegir duración del informe
 
-UC42 - Elegir información del informe
+UC38 - Elegir información del informe
 
-UC43 - Generar informe 
+UC39 - Generar informe 
 	extension point:
-	UC44 - Exportar informe
-UC44 - Exportar informe
+	UC40 - Exportar informe
+UC40 - Exportar informe
 
 🟦 GESTIÓN DE RESERVAS
-UC25 - Consultar estaciones y vehículos
+UC21 - Consultar estaciones y vehículos
 
-UC26 - Realizar reserva
+UC22 - Realizar reserva
 
 extension points:
 
@@ -101,47 +101,47 @@ UC27 - Cancelar reserva
 
 UC29 - Aplicar penalización por no recogida
 
-UC27 - Cancelar reserva
+UC23 - Cancelar reserva
 
-UC28 - Consultar reservas
+UC24 - Consultar reservas
 
-UC29 - Aplicar penalización por no recogida
+UC25 - Aplicar penalización por no recogida
 
-UC30 - Gestionar reservas
+UC26 - Gestionar reservas
 
 🟦 GESTIÓN DE INCIDENCIAS
-UC31 - Registrar incidencia
+UC27 - Registrar incidencia
 
 extension point: 
-	UC32 - Gestionar incidencia por usuario
+	UC28 - Gestionar incidencia por usuario
 
-UC32 - Gestionar incidencia por usuario
+UC28 - Gestionar incidencia por usuario
 
-UC33 - Gestionar incidencia por personal
+UC29 - Gestionar incidencia por personal
 
 extension points:
 
-	UC34 - Cambiar estado incidencia
+	UC30 - Cambiar estado incidencia
 
-	UC35 - Asignar incidencias
+	UC31 - Asignar incidencias
 
-UC34 - Cambiar estado incidencia
+UC30 - Cambiar estado incidencia
 
-UC35 - Asignar incidencias
+UC31 - Asignar incidencias
 
 🟦 FUNCIONES ADMIN
-UC36 - Consultar estado estaciones
+UC32 - Consultar estado estaciones
 
 	extension point: 
-	UC37 - Gestionar estaciones
+	UC33 - Gestionar estaciones
 
-UC37 - Gestionar estaciones
+UC33 - Gestionar estaciones
 
-UC38 - Gestionar usuarios
+UC34 - Gestionar usuarios
 
-UC39 - Localizar vehículos
+UC35 - Localizar vehículos
 
 	extension point: 
-	UC40 - Gestionar vehículos
+	UC36 - Gestionar vehículos
 
-UC40 - Gestionar vehículos
+UC36 - Gestionar vehículos
